@@ -15,8 +15,6 @@ full of dinosaurs.
 
 - Create a console application that manages the dinosaurs in your zoo.
 
-### Explorer Mode
-
 - [ ] Create a class to represent your dinosaurs. The class should have the following properties
 
   - [ ] `Name`
