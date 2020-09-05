@@ -1,4 +1,4 @@
-# JurassicParkColter
+# Jurassic Park: A C# and .NET App
 
 In this assignment, you will be creating a console application that manages a zoo
 full of dinosaurs.
